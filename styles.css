@@ -1,4 +1,30 @@
 html{ 
-    background: goldenrod;
+    background:bisque ;
     border: 0cap;
+}
+h1{
+    color: aqua;
+    text-decoration: wavy;
+    text-transform: capitalize;
+    -ms-text-kashida-space: inherit;
+  }
+p{
+    color: red;
+    text-align: center;
+    text-decoration: wavy;
+ }
+h4{
+    text-align: center;
+}
+ul{
+    color: peru;
+  }
+ol{
+    color: slategray;
+  }
+.imp{
+     color: crimson;
+  }
+#cot{
+    color: blueviolet;
 }
